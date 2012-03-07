@@ -1,0 +1,20 @@
+body 
+{
+	font-family: Verdana;
+	font-size: 15px;
+	color: black;
+	margin: 10px;
+	padding: 0;
+	background: #FFF;
+}
+
+form, h1, h2, h3, h4, input
+{
+		padding:0;
+		margin:0;
+}
+
+canvas
+{
+	border: 1px solid black;
+}
